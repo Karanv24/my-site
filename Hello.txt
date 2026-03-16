@@ -1,3 +1,5 @@
 This is sample text doc created on develop branch
 
 new changes from another dev
+
+Adding new feature to this file
