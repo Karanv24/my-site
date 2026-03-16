@@ -3,3 +3,4 @@ This is sample text doc created on develop branch
 new changes from another dev
 
 Doing some bug fix
+Adding new feature to this file
